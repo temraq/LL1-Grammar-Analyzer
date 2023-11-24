@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.108,D:\1VARIOUS\1mpei\матоб эвм\5 cем мэвм\лаба3\lab3\Project1PCH1.h=D:\1VARIOUS\labcppbuilder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,=D:\1VARIOUS\labcppbuilder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,=D:\1VARIOUS\labcppbuilder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.530,=D:\1VARIOUS\1mpei\матоб эвм\5 cем мэвм\лаба3\lab3\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,=D:\1VARIOUS\1mpei\матоб эвм\5 cем мэвм\лаба3\lab3\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,=D:\1VARIOUS\labcppbuilder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,D:\1VARIOUS\1mpei\матоб эвм\5 cем мэвм\лаба3\lab3\Unit1.cpp=D:\1VARIOUS\labcppbuilder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,D:\1VARIOUS\1mpei\матоб эвм\5 cем мэвм\лаба3\lab3\Unit1.dfm=D:\1VARIOUS\labcppbuilder\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,D:\1VARIOUS\1mpei\матоб эвм\5 cем мэвм\лаба3\lab3\Unit1.h=D:\1VARIOUS\labcppbuilder\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,D:\1VARIOUS\1mpei\матоб эвм\5 cем мэвм\лаба3\lab3\Project1.cbproj=D:\1VARIOUS\labcppbuilder\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,=D:\1VARIOUS\labcppbuilder\Unit1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="File1.cpp"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
